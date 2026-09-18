@@ -1,6 +1,6 @@
 # GitHub Data Ingestion Pipeline
 
-Goal: I am building a pipeline that pulls GitHub repo data (for orgs like stripe/shopify/microsoft), checks it's valid, saves the good stuff(valid data) to a database, and quarantines(Archived: both the bad data and why it failed) the bad stuff all wrapped in a small API. That's it.
+Goal: I am building a pipeline that pulls GitHub repo data (for orgs like stripe/shopify/microsoft), checks it's valid, saves the good data(valid data) to a database, and quarantines(Archived: both the bad data and why it failed) the bad data all wrapped in a small API. 
 
 ## Layout
 
